@@ -12,7 +12,7 @@ export default function Home() {
 
             {/* Narrative and image */}
             <div className="text-center mb-8">
-                <p className="mb-4">I'm Anna Gracheva, a senior student at UW Bothell. I'm majoring in Computer Science and love to code.</p>
+                <p className="mb-4">My name is Anna Gracheva and I am a senior student at UW Bothell. I am majoring in Computer Science and love to code.</p>
                 <Image
                     src="/My picture.jpg"
                     alt="Me"
